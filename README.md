@@ -40,6 +40,7 @@
  
 - **Python Projects:**
   - [SnakeGame (in File Explorer)](https://github.com/vitp15/SnakeGame)
+  - [CollisionShow for Shorts](https://github.com/vitp15/collisionShow)
 
 - **C++ Projects:**
   - Halite Game Bot
