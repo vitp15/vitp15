@@ -32,6 +32,9 @@
 - **iOS Application:**
   - [Biblia Noul Testament Audio](https://github.com/vitp15/NoulTestament_IOS)
 
+- **ML and AI Projects:**
+  - [LogoSimilarity](https://github.com/vitp15/LogoSimilarity)
+
 - **Telegram Bot:**
   - [GuessWordGame](https://github.com/vitp15/guess-word-game-telbot)
  
