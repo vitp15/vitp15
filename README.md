@@ -13,7 +13,7 @@
   <a href="mailto:vitp.work@gmail.com">vitp.work@gmail.com</a>
 </p>
 
-Tell me the problem and I will take it to production: choosing the stack, designing the architecture and the CI/CD, implementing and shipping it. Writing code since 2020, shipping to production since 2024.
+I can take a problem from the first conversation to production: choose the stack, design the architecture and the CI/CD, implement and ship. Writing code since 2020, production software since 2024.
 
 ## Apps and games
 
@@ -76,7 +76,7 @@ Every app has its own page with screenshots, download links, support and legal d
 
 **Colete-Online** (Jul 2025 – Present), full-stack software engineer. Shipping modules for WooCommerce, PrestaShop, Magento 2 and OpenCart and the PHP library they share: pickup points and lockers on a map widget, address autocomplete, cash on delivery, AWB generation, multi-currency pricing. Full-stack on the Angular + Node.js platform behind them (public API, Prisma and MySQL, Redis, payments). CI/CD with Playwright suites on self-hosted runners. Ran the technical interviews for the 2026 interns. A parcel-locker scanning prototype in Python (camera, laser measurement, motion control) and C++ work on a real helicopter project.
 
-**BBMM Software** (Apr 2025 – Sep 2025), software engineer. Five-person team building a web product for GoAhead Venture, a US client: React, FastAPI, SQL, CI/CD.
+**BBMM Software** (Apr 2025 – Sep 2025), software engineer. Small team building a web product for GoAhead Venture, a US client: React, FastAPI, SQL, CI/CD.
 
 **Self-employed** (Oct 2024 – Apr 2025), freelance mobile developer. Sona, an Android app that detects car malfunctions from engine sound with an ML server on Google Cloud; Biblia Noul Testament audio for Android and iOS.
 
@@ -114,8 +114,9 @@ BSc in Computer Science, Politehnica Bucharest, 2022 – 2026.
 ## Earlier projects
 
 - [Biblia Noul Testament audio](https://github.com/vitp15/NoulTestament_Android) for Android and [iOS](https://github.com/vitp15/NoulTestament_IOS)
-- [LogoSimilarity](https://github.com/vitp15/LogoSimilarity), unsupervised learning on logos
-- [GuessWordGame](https://github.com/vitp15/guess-word-game-telbot), a Telegram bot
+- [GuessWordGame](https://github.com/vitp15/guess-word-game-telbot), a Telegram bot with a word-guessing game
+- Physics simulations for YouTube Shorts: [collisionShow](https://github.com/vitp15/collisionShow), [SnakeGame](https://github.com/vitp15/SnakeGame) in the file explorer, a MIDI bouncing-square playground
+- [LogoSimilarity](https://github.com/vitp15/LogoSimilarity), unsupervised clustering of logos
 - University: a microservice backend on Docker Swarm with Keycloak, Prometheus and Grafana; a process scheduler in Rust; an async web server and a memory allocator in C; a Halite bot in C++
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vitp15&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub stats"></p>
