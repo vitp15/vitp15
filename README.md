@@ -119,4 +119,3 @@ BSc in Computer Science, Politehnica Bucharest, 2022 – 2026.
 - University: a microservice backend on Docker Swarm with Keycloak, Prometheus and Grafana; a process scheduler in Rust; an async web server and a memory allocator in C; a Halite bot in C++
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vitp15&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub stats"></p>
-
