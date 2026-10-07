@@ -20,7 +20,7 @@ I can take a problem from the first conversation to production: choose the stack
 
 ## Apps and games
 
-Designed, built and published by one person: product, code, CI/CD to both stores, listings in 18 languages, monetisation and the legal pages.
+Designed, built and published by me, from the first sketch to the store: product, code, CI/CD to both stores, listings in 18 languages, monetisation and the legal pages.
 
 <table>
   <tr>
