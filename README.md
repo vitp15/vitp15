@@ -1,13 +1,16 @@
 <h1 align="center">Vadim Plămădeală</h1>
 
 <p align="center">
+  <a href="https://vitp15.github.io"><img src="https://img.shields.io/badge/My_website-vitp15.github.io-7aa2ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="My website: vitp15.github.io" height="36"></a>
+</p>
+
+<p align="center">
   Full-stack software engineer in Romania. Online as <code>vitp</code>.<br>
   Shipping integrations and an Angular + Node.js platform at <strong>Colete-Online</strong> by day;
   mobile apps and games for Android and iOS under <strong>VitpApps</strong> the rest of the time.
 </p>
 
 <p align="center">
-  <a href="https://vitp15.github.io">vitp15.github.io</a> ·
   <a href="https://vitp15.github.io/cv/CV_Vadim_Plamadeala.pdf">CV (PDF)</a> ·
   <a href="https://www.linkedin.com/in/vadim-plamadeala/">LinkedIn</a> ·
   <a href="mailto:vitp.work@gmail.com">vitp.work@gmail.com</a>
@@ -30,7 +33,7 @@ Designed, built and published by one person: product, code, CI/CD to both stores
     <td align="center" width="33%">
       <a href="https://vitp15.github.io/naova/"><img src="https://vitp15.github.io/img/apps/naova/icon-256.png" width="96" alt="Naova"></a><br>
       <a href="https://vitp15.github.io/naova/"><strong>Naova</strong></a><br>
-      <sub>Log a migraine in one tap. See your own patterns.</sub><br>
+      <sub>Log a migraine in seconds. See your own patterns.</sub><br>
       <sub>Flutter · Dart · SQLite</sub>
     </td>
     <td align="center" width="33%">
@@ -74,7 +77,7 @@ Every app has its own page with screenshots, download links, support and legal d
 
 ## Work
 
-**Colete-Online** (Jul 2025 – Present), full-stack software engineer. Shipping modules for WooCommerce, PrestaShop, Magento 2 and OpenCart and the PHP library they share: pickup points and lockers on a map widget, address autocomplete, cash on delivery, AWB generation, multi-currency pricing. Full-stack on the Angular + Node.js platform behind them (public API, Prisma and MySQL, Redis, payments). CI/CD with Playwright suites on self-hosted runners. Ran the technical interviews for the 2026 interns. A parcel-locker scanning prototype in Python (camera, laser measurement, motion control) and C++ work on a real helicopter project.
+**Colete-Online** (Jul 2025 – Present), full-stack software engineer. Shipping modules for WooCommerce, PrestaShop, Magento 2 and OpenCart and the PHP library they share: pickup points and lockers on a map widget, address autocomplete, cash on delivery, AWB generation, multi-currency pricing. Full-stack on the Angular + Node.js platform behind them (public API, Prisma and MySQL, Redis, payments). CI/CD with Playwright suites on self-hosted runners. Conducted technical interviews for the 2026 interns. A parcel-locker scanning prototype in Python (camera, laser measurement, motion control) and C++ work on a real helicopter project.
 
 **BBMM Software** (Apr 2025 – Sep 2025), software engineer. Small team building a web product for GoAhead Venture, a US client: React, FastAPI, SQL, CI/CD.
 
