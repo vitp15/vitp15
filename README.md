@@ -79,7 +79,7 @@ Every app has its own page with screenshots, download links, support and legal d
 
 **Colete-Online** (Jul 2025 – Present), full-stack software engineer. Shipping modules for WooCommerce, PrestaShop, Magento 2 and OpenCart and the PHP library they share: pickup points and lockers on a map widget, address autocomplete, cash on delivery, AWB generation, multi-currency pricing. Full-stack on the Angular + Node.js platform behind them (public API, Prisma and MySQL, Redis, payments). CI/CD with Playwright suites on self-hosted runners. Conducted technical interviews for the 2026 interns. A parcel-locker scanning prototype in Python (camera, laser measurement, motion control) and C++ work on a real helicopter project.
 
-**BBMM Software** (Apr 2025 – Sep 2025), software engineer. Small team building a web product for GoAhead Venture, a US client: React, FastAPI, SQL, CI/CD.
+**BBMM Software** (Apr 2025 – Sep 2025), software engineer. Small team building a web product for GoAhead Ventures, a US client: React, FastAPI, SQL, CI/CD.
 
 **Self-employed** (Oct 2024 – Apr 2025), freelance mobile developer. Sona, an Android app that detects car malfunctions from engine sound with an ML server on Google Cloud; Biblia Noul Testament audio for Android and iOS.
 
